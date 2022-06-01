@@ -254,6 +254,10 @@
     display: none;
   }
 
+  .main-content h2 {
+    font-size: 4.25rem;
+  }
+
   h1 {
     font-size: 4rem;
   }
